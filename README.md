@@ -1,10 +1,12 @@
 # CSE330
 
-Anton Dmitriev / 485865 / AntonDmitriev1484
+
 
 Rajat Nepal / 490732 / RajatNepal
+Anton Dmitriev / 485865 / AntonDmitriev1484
 
-Link to news website: http://ec2-54-159-121-198.compute-1.amazonaws.com/~rnepal/m3_group/home.php
+Link to news website: Email me to activate EC2 instance. It is currently shut down.
+
 
 
 Login Details:
